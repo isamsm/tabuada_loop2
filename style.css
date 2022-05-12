@@ -1,9 +1,15 @@
 body {
-    padding: 170px;
+    padding: 120px;
+    font-family: sans-serif
 }
 
 td {
     padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: #0d9787;
 }
 
 .linha10 {
