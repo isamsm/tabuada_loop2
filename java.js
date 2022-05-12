@@ -7,7 +7,7 @@ for (let x = 10; x<= 20; x++) {
             document.write(y + ' * ' + x + ' = ' + (x * y))
             document.write("</td>")
         }
+        
     }
-
 document.write("</tr>")
 document.write("</table>")
